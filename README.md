@@ -1,3 +1,3 @@
 # Git-Exercise-01
 Hello!
-I'm learning.
+I'm learning. Doing my best!
